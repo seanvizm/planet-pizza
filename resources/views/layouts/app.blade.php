@@ -31,17 +31,17 @@
     <script>
         // Set theme immediately before page renders to prevent flash
         (function() {
-            const savedTheme = localStorage.getItem('theme') || 'light';
+            const savedTheme = localStorage.getItem('theme') || 'dark';
             document.documentElement.setAttribute('data-theme', savedTheme);
         })();
     </script>
 
     <style>
-        /* Light Theme Styles - Default theme */
+        /* Dark Theme Styles - Default theme */
         body {
-            background-color: #ffffff !important;
+            background-color: #121618 !important;
             background-image: none !important;
-            color: #212529 !important;
+            color: gray !important;
             transition: background-color 0.3s ease;
         }
 
