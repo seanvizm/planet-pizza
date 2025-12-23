@@ -62,7 +62,7 @@
             </tr>
             <tr>
                 <td colspan="5" class="text-right">
-                    <a href="{{ url('/pizzas/menu') }}" class="btn btn-primary"><i class="fa fa-angle-left"></i> Continue Odering</a>
+                    <a href="{{ url('/pizzas/menu') }}" class="btn btn-primary"><i class="fa fa-angle-left"></i> Continue Ordering</a>
                     <a href="{{ url('/checkout') }}"><button class="btn btn-success">Checkout</button></a>
                 </td>
             </tr>
