@@ -2,18 +2,22 @@
 
 A Laravel 12 application for PizzaPlanet's online pizza ordering platform, demonstrating software engineering principles, design patterns, and clean architecture.
 
+## Home Page
 ![PizzaPlanet Screenshot](public/images/pizzaplanet_ss.png)
+## Menu Page
+![PizzaPlanet Screenshot](public/images/pizzamenu_ss1.png)
+![PizzaPlanet Screenshot](public/images/pizzamenu_ss2.png)
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Business Requirements](#business-requirements)
-- [Technical Stack](#technical-stack)
-- [Architecture & Design Patterns](#architecture--design-patterns)
-- [Installation](#installation)
-- [Testing](#testing)
-- [API Documentation](#api-documentation)
-- [Project Structure](#project-structure)
+- [Overview](#-overview)
+- [Business Requirements](#-business-requirements)
+- [Technical Stack](#-technical-stack)
+- [Architecture & Design Patterns](#-architecture--design-patterns)
+- [Installation](#-installation)
+- [Testing](#-testing)
+- [API Documentation](#-api-documentation)
+- [Project Structure](#-project-structure)
 
 ## 🎯 Overview
 
