@@ -24,7 +24,7 @@ PizzaPlanet is a fully functional pizza ordering system built with Laravel 12 an
 - **Flexible Payment Options**: Card and PayPal payment methods (mocked for demonstration)
 - **Price Calculation Engine**: Dynamic pricing based on pizza type and toppings
 - **Shopping Cart**: Full cart management with session persistence
-- **Order Management**: Complete order processing with payment tracking
+- **Order Processing**: Order creation and payment tracking with comprehensive logging
 
 ## 📊 Business Requirements
 
